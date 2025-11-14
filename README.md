@@ -1,1 +1,1 @@
-chatgpt usando para polir o pep8
+chatgpt usado para polir o pep8
